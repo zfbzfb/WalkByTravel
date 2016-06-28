@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">WalkByTravel</string>
+    <string name="app_name">徒步去旅行</string>
+    <string name="activity">活动</string>
+    <string name="travel">游记</string>
+    <string name="circuit">线路</string>
+    <string name="me">我的</string>
+    <string name="avtivity_spinner">出发地</string>
 </resources>
